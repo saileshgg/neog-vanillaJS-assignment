@@ -1,0 +1,16 @@
+#inputText {
+    display: block;
+    width: 80%;
+    padding: 1rem;
+}
+
+#button {
+    margin: 1rem 0rem;
+}
+
+#output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    padding: 1rem;
+}
